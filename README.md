@@ -52,7 +52,7 @@ Interactive KPI Cards
 Map Visualization (State-wise Sales)
 
 # Dashboard Design & Formatting
-<img src = "
+<img src = "https://github.com/Poornac2/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/swiggy.png" alt="Picture"
 
 
 🏙 Top Cities by Sales
