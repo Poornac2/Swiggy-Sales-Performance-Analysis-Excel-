@@ -1,8 +1,8 @@
 # Swiggy-Sales-Performance-Analysis-Excel-
 
-📊 Swiggy Sales Analysis Dashboard (Excel Project)
+# 📊 Swiggy Sales Analysis Dashboard (Excel Project)
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project is an Excel-based Sales Analysis Dashboard created using Swiggy raw order data.
 The main goal of this project is to analyze food sales performance, customer ratings, order trends, and regional demand using interactive Excel dashboards.
@@ -23,7 +23,7 @@ Top performing cities and food categories
 
 ---
 
-🎯 Objectives
+# 🎯 Objectives
 
 To clean and organize Swiggy raw sales data
 
@@ -39,7 +39,7 @@ To compare Veg vs Non-Veg food demand
 
 ---
 
-🛠 Tools & Features Used
+# 🛠 Tools & Features Used
 
 Microsoft Excel
 
@@ -55,7 +55,7 @@ Map Visualization (State-wise Sales)
 <img src = "https://i.postimg.cc/903kxyk3/swiggy.png" alt="Picture">
 
 
-🏙 Top Cities by Sales
+# 🏙 Top Cities by Sales
 
 Top 5 cities contributing maximum sales include:
 
@@ -78,7 +78,7 @@ Top 5 cities contributing maximum sales include:
 
 ---
 
-📅 Weekly & Daily Sales Pattern
+# 📅 Weekly & Daily Sales Pattern
 
 Weekend sales (Saturday & Sunday) are higher than weekdays.
 
@@ -87,7 +87,7 @@ Shows customers order more during weekends.
 
 ---
 
-🚀 Conclusion
+# 🚀 Conclusion
 
 This Excel dashboard provides a powerful summary of Swiggy sales and customer behavior.
 It helps stakeholders understand:
@@ -106,7 +106,7 @@ Such dashboards can support better decision-making in marketing, operations, and
 
 ---
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Add customer segmentation analysis
 
