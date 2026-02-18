@@ -1,5 +1,3 @@
-# Swiggy-Sales-Performance-Analysis-Excel-
-
 # 📊 Swiggy Sales Analysis Dashboard (Excel Project)
 
 # 📌 Project Overview
