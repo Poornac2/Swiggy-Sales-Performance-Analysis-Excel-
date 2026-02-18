@@ -50,7 +50,7 @@ Interactive KPI Cards
 Map Visualization (State-wise Sales)
 
 # Dashboard Design & Formatting
-<img src = "https://i.postimg.cc/903kxyk3/swiggy.png" alt="Picture">
+<img src = "https://i.postimg.cc/vmvq7cRK/swiggy-1.pngg" alt="Picture">
 
 
 # 🏙 Top Cities by Sales
