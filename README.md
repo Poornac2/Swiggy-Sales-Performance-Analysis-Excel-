@@ -49,7 +49,8 @@ Interactive KPI Cards
 
 Map Visualization (State-wise Sales)
 
-# Dashboard Design & Formatting
+# 🖼️ Dashboard Preview
+
 <img src = "https://i.postimg.cc/vmvq7cRK/swiggy-1.pngg" alt="Picture">
 
 
