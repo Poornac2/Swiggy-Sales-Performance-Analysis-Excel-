@@ -1,122 +1,108 @@
-# 📊 Swiggy Sales Analysis Dashboard (Excel)
+# 🍽️ Swiggy Sales Analysis Dashboard (Microsoft Excel)
 
-# 📌 Project Overview
+Transforming Food Delivery Sales Data into Actionable Business Insights
 
-This project is an Excel-based Sales Analysis Dashboard created using Swiggy raw order data.
-The main goal of this project is to analyze food sales performance, customer ratings, order trends, and regional demand using interactive Excel dashboards.
-
-The report helps in understanding key business insights such as:
-
-Total sales revenue
-
-Customer rating patterns
-
-Order value trends
-
-Sales distribution across Indian states
-
-Top performing cities and food categories
-
-
+![Swiggy Dashboard](swiggy%201.png)
 
 ---
 
-# 🎯 Objectives
+# 📌 Project Background
 
-To clean and organize Swiggy raw sales data
+The food delivery industry generates millions of transactions every day. Understanding customer ordering behavior, sales performance, restaurant demand, and regional trends is essential for making better business decisions.
 
-To build an interactive Excel dashboard using Pivot Tables and Charts
-
-To analyze monthly, weekly, and daily sales trends
-
-To identify top cities and states contributing to sales
-
-To compare Veg vs Non-Veg food demand
-
-
+This project presents an interactive **Swiggy Sales Analysis Dashboard** developed using Microsoft Excel. The dashboard converts raw sales data into meaningful visual insights that help stakeholders monitor performance, identify growth opportunities, and make data-driven decisions.
 
 ---
 
-# 🛠 Tools & Features Used
+# 🎯 Project Objectives
 
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Slicers for filtering
-
-Interactive KPI Cards
-
-Map Visualization (State-wise Sales)
+- Analyze overall sales performance.
+- Monitor customer ordering trends.
+- Compare sales across different Indian states.
+- Identify top-performing cities.
+- Evaluate food category performance.
+- Analyze daily, weekly, and monthly sales trends.
+- Build an interactive Excel dashboard for business reporting.
 
 ---
 
-# 🖼️ Dashboard Preview
+# 📊 Dashboard Highlights
 
-<img src = "https://i.postimg.cc/vmvq7cRK/swiggy-1.pngg" alt="Picture">
-
----
-
-# 🏙 Top Cities by Sales
-
-Top 5 cities contributing maximum sales include:
-
-1. Bengaluru – ₹5.46M
-
-
-2. Lucknow – ₹3.12M
-
-
-3. Hyderabad – ₹3.02M
-
-
-4. Mumbai – ₹3.02M
-
-
-5. New Delhi – ₹2.83M
-
-
-
+- Total Sales
+- Total Orders
+- Average Order Value
+- Average Customer Rating
+- Rating Count
+- Monthly Sales Trend
+- Daily Sales Trend
+- Weekly Sales Trend
+- Sales by Food Type
+- Sales by State
+- Top 5 Cities by Sales
+- State-wise Sales, Ratings & Orders
+- Interactive Filters (State, Category & Restaurant)
 
 ---
 
-# 📅 Weekly & Daily Sales Pattern
+# 🛠 Tools & Skills Used
 
-Weekend sales (Saturday & Sunday) are higher than weekdays.
-
-Shows customers order more during weekends.
-
-
----
-
-# 🚀 Conclusion
-
-This Excel dashboard provides a powerful summary of Swiggy sales and customer behavior.
-It helps stakeholders understand:
-
-Revenue trends
-
-Regional performance
-
-Customer preferences
-
-Top-selling cities and categories
-
-
-Such dashboards can support better decision-making in marketing, operations, and business growth.
-
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Data Cleaning
+- Dashboard Design
+- KPI Cards
 
 ---
 
-# 📌 Future Enhancements
+# 📈 Key Business Insights
 
-Add customer segmentation analysis
+- Total Sales reached **₹53.01M** across **197.43K orders**.
+- The Average Order Value was **₹268.51**.
+- Customers maintained a strong Average Rating of **4.34**.
+- Bangalore generated the highest sales among all cities.
+- Vegetarian food contributed a larger share of total sales compared to Non-Vegetarian items.
+- Sales remained consistent throughout the week with noticeable peak periods.
+- Monthly sales trends highlighted seasonal variations in customer demand.
+- Interactive filters allow users to analyze sales by State, Category, and Restaurant.
 
-Include delivery time and discount impact
+---
 
-Automate report updates using Power Query
+# 💼 Business Value
 
-Build Power BI version of the dashboard
+This dashboard helps businesses to:
 
+- Track sales performance in real time.
+- Identify high-performing cities and states.
+- Understand customer ordering behavior.
+- Optimize restaurant and product strategies.
+- Improve marketing and business planning.
+- Support data-driven decision-making using interactive reports.
 
+---
 
+# 🎤 Interview Explanation
+
+This project was developed using Microsoft Excel by cleaning raw Swiggy sales data, creating Pivot Tables, designing KPI Cards, building Pivot Charts, and integrating Slicers for interactive analysis.
+
+The dashboard enables users to monitor sales performance, compare regional trends, identify top-performing cities, analyze food categories, and evaluate customer ratings. It demonstrates practical skills in Excel dashboard development, business analysis, and data visualization.
+
+---
+
+# 📂 Project Files
+
+- Swiggy Raw Data Excel.xlsx
+- swiggy 1.png
+- README.md
+
+---
+
+# 👨‍💻 Author
+
+**Poorna Chandra**
+
+Aspiring Data Analyst
+
+📧 Open to Data Analyst Internship & Full-Time Opportunities
